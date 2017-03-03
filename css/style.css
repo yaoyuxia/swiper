@@ -324,7 +324,7 @@ body {
     font-size: 0.672rem;
     position: absolute;
     left: 0;
-    top: 7rem;
+    top: 15%;
 }
 
 .math {
@@ -417,39 +417,17 @@ body {
 
 .most {
     width: 100%;
-    height: 40%;
+    height: 45%;
     position: absolute;
     top: 35%;
     left: 0;
     font-size: 0.672rem;
 }
 
-.look {
-    position: absolute;
-    right: 15%;
-    color: #000;
-}
-
-.look a {
-    color: #000;
-}
-
-.look a:hover {
-    background-color: #CFF50D;
-}
-
-.work {
-    width: 70%;
-    height: 90%;
-    position: absolute;
-    bottom: 0;
-    left: 15%;
-}
-
 .work li {
     border: 3px solid #fff;
-    width: 45%;
-    height: 45%;
+    width: 6.813rem;
+    height: 6.813rem;
     float: left;
     position: absolute;
 }
@@ -458,7 +436,7 @@ body {
     background: url(../images/k8dd.jpg);
     background-size: cover;
     position: absolute;
-    left: 0;
+    left: 10%;
     top: 0;
 }
 
@@ -466,7 +444,7 @@ body {
     background: url(../images/k8dd.jpg);
     background-size: cover;
     position: absolute;
-    right: 0;
+    right: 10%;
     top: 0;
 }
 
@@ -474,7 +452,7 @@ body {
     background: url(../images/k8dd.jpg);
     background-size: cover;
     position: absolute;
-    left: 0;
+    left: 10%;
     bottom: 0;
 }
 
@@ -482,7 +460,7 @@ body {
     background: url(../images/k8dd.jpg);
     background-size: cover;
     position: absolute;
-    right: 0;
+    right: 10%;
     bottom: 0;
 }
 
