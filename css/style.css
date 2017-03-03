@@ -430,6 +430,7 @@ body {
     height: 45%;
     float: left;
     position: absolute;
+    z-index: 10;
 }
 
 .work1 {
