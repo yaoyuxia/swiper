@@ -60,6 +60,16 @@ body {
     position: relative;
 }
 
+.page_one,
+.page_two,
+.page_three,
+.page_four,
+.page_five,
+.page_six {
+    width: 100%;
+    height: 100%;
+}
+
 .page1,
 .page2,
 .page5 {
@@ -308,42 +318,46 @@ body {
     background: url(../images/bj2.png);
 }
 
-
 .page3_header {
+    border: 1px solid red;
     width: 100%;
     height: 50%;
     font-size: 0.672rem;
     position: absolute;
-    left:0;
+    left: 0;
+    top: 20%;
 }
+
 .math {
     position: absolute;
     top: 0;
-    left: 30%;;
+    left: 30%;
+    ;
 }
-.page3_1{
-    width:60%;
-    height:30%;
-    position:absolute;
-    left:20%;
+
+.page3_1 {
+    width: 60%;
+    height: 30%;
+    position: absolute;
+    left: 20%;
 }
 
 .page3_2 {
-    width:60%;
-    height:30%;
+    width: 60%;
+    height: 30%;
     font-size: 0.672rem;
     position: absolute;
     top: 5.280rem;
-    left:20%;
+    left: 20%;
 }
 
 .page3_3 {
-    width:60%;
-    height:30%;
+    width: 60%;
+    height: 30%;
     font-size: 0.672rem;
     position: absolute;
     top: 10.320rem;
-    left:20%;
+    left: 20%;
 }
 
 .introduce {
@@ -358,11 +372,12 @@ body {
 }
 
 .page4_1 {
+    border: 1px solid red;
     width: 100%;
     height: 50%;
     position: absolute;
     top: 20%;
-    left:0;
+    left: 0;
 }
 
 .me {
@@ -433,12 +448,12 @@ body {
     left: 15%;
 }
 
-.work li { 
+.work li {
     border: 3px solid #fff;
     width: 45%;
     height: 45%;
     float: left;
-    position:absolute;
+    position: absolute;
 }
 
 .work1 {
