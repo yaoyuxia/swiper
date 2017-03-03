@@ -433,33 +433,41 @@ body {
     z-index: 10;
 }
 
+.most img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
 .work1 {
-    background: url(../images/k8dd.jpg);
-    background-size: cover;
+    /*background: url(../images/k8dd.jpg);
+    background-size: cover;*/
     position: absolute;
     left: 10%;
     top: 0;
 }
 
 .work2 {
-    background: url(../images/k8dd.jpg);
-    background-size: cover;
+    /*background: url(../images/k8dd.jpg);
+    background-size: cover;*/
     position: absolute;
     right: 10%;
     top: 0;
 }
 
 .work3 {
-    background: url(../images/k8dd.jpg);
-    background-size: cover;
+    /*background: url(../images/k8dd.jpg);
+    background-size: cover;*/
     position: absolute;
     left: 10%;
     bottom: 0;
 }
 
 .work4 {
-    background: url(../images/k8dd.jpg);
-    background-size: cover;
+    /*background: url(../images/k8dd.jpg);
+    background-size: cover;*/
     position: absolute;
     right: 10%;
     bottom: 0;
